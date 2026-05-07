@@ -1,0 +1,16 @@
+﻿*.zip
+*.001
+*.pt
+*.pth
+*.onnx
+*.csv
+*.yaml
+*.jpg
+*.png
+*.mp4
+*.avi
+Full Custom Dataset/
+Preliminary Datasets/
+YOLOv11m Results & Metrics/
+YOLOv11n Results & Metrics/
+YOLOv11s Results & Metrics/
