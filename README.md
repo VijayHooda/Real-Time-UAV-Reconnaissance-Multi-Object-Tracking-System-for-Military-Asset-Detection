@@ -59,7 +59,7 @@ Model trained using YOLOv8-compatible dataset structure.
 - Heavy occlusion reduces tracking stability
 - Low-light scenes reduce confidence
 
-Challenges:
+## Challenges:
 - Small object detection at altitude
 - Motion blur from UAV movement
 - Occlusion in dense scenes
